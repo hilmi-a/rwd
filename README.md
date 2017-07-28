@@ -1,2 +1,3 @@
 # rwd
-Responsive web design template
+
+Responsive web design template from 1stwebdesigner.com
